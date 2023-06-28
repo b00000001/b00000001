@@ -36,4 +36,4 @@ I am a software developer with a focus on Web Development. I love learning and b
 <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/Svelte-666666?style=for-the-badge&logo=svelte&logoColor=white"/></a>
 
-<a href="https://www.credly.com/badges/c1515fdd-0e66-42f4-bb5b-ce6984e5c710/public_url">![UNC Full Stack Web Development Badge](https://images.credly.com/size/340x340/images/88421a99-8e31-4e46-9327-f756f280413c/CE_Cert_Badge_Coding-01.png)</a>
+<a href="https://www.credly.com/badges/c1515fdd-0e66-42f4-bb5b-ce6984e5c710/public_url">![UNC Full Stack Web Development Badge](https://images.credly.com/size/340x340/images/42b71bba-2b2c-40fd-85eb-c8bcb8fb9aa2/CE_Cert_Badge_Coding-01.png)</a>
