@@ -30,7 +30,6 @@ I am a passionate software developer who specializes in Web Development. I have 
 <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-
 <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 <a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/Microsoft-F25022?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
