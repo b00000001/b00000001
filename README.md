@@ -17,7 +17,7 @@
 
 Hello 👋 and welcome to my Github!
 
-I am a software developer with a focus on Web Development. I love learning and building! Feel free to contact me.
+I am a passionate software developer who specializes in Web Development. I have experience working with various APIs and creating dynamic web applications. I enjoy learning new technologies and building innovative solutions. If you want to collaborate or chat, feel free to reach out to me.
 
 # Skills
 
