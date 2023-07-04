@@ -30,11 +30,10 @@ Hello 👋 and welcome to my Github!<br><br>I am a passionate software developer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=b00000001&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=b00000001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=b00000001&icon=1&color=1)](https://visitcount.itsvg.in)
